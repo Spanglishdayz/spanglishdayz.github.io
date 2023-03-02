@@ -2,9 +2,9 @@
     "text": {
         "info": [
             {
-                "title": "Sin Configurar",
+                "title": "Under Construction",
                 "list": [
-                    "- Sin configurar :/"
+                    "Coming soon..."
                 ]
             }
         ],
@@ -12,9 +12,7 @@
             {
                 "title": "Launcher Update (v1.0.0) - 02/03/2023",
                 "list": [
-                    "· Mejorado más de un 20% el rendimiento de la aplicación.",
-                    "· Añadido botón para acceder a la lista de mods.",
-                    "· Arreglado bug, que permitía tener mas de 1 instancia del launcher abierta."
+                    "· Improved application performance by more than 20%."
                 ]
             }
         ],
